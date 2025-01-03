@@ -4,7 +4,10 @@ Password:
 su: Authentication failure
 ``` 
 
-![Loading Animation](assets/loading.gif) 
+<!--![Loading Animation](assets/loading.gif)-->
+<div align="center">
+  <img src="assets/loading.gif" alt="Loading Animation">
+</div>
 <!--
 **cyberman009/cyberman009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
